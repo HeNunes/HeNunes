@@ -1,6 +1,9 @@
 ## Oii, eu sou o Enzo Nunes
+
 Estudante de Ciências da Computação no ICMC - USP.
-Este GitHub é dedicado à submissão de projetos desenvolvidos nas disciplinas cursadas na universidade, atividades de pesquisa e extensão e projetos pessoais. :)
+
+
+Este GitHub é dedicado à submissão de projetos desenvolvidos nas disciplinas cursadas na universidade, atividades de pesquisa e extensão e projetos pessoais :)
 
 <!--
 **HeNunes/HeNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
