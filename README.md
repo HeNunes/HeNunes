@@ -1,4 +1,4 @@
-## Oii, eu sou o Enzo Nunes
+## Oi, eu sou o Enzo Nunes
 
 Estudante de Ciências da Computação no ICMC - USP.
 
