@@ -1,4 +1,4 @@
-## Hi, I'm Enzo Nunes!
+## Hi, I'm Cecília Nunes!
 
 I'm a Computer Sciences student at Universidade de São Paulo, by the time in my sixth semester. Academically, I'm mainly interested in Data Engineering and Data Science topics, and I am presently studying Data Architecture and its implementation for many purposes.
 
