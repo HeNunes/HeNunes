@@ -1,6 +1,6 @@
 ## Hi, I'm Cecília Nunes!
 
-I'm a Computer Sciences student at Universidade de São Paulo, by the time in my sixth semester. Academically, I'm mainly interested in Data Engineering and Data Science topics, and I am presently studying Data Architecture and its implementation for many purposes.
+I'm a Computer Sciences student at Universidade de São Paulo, by the time in my sixth semester. Academically, I'm mainly interested in Data Engineering, Data Science and Machine Learning topics, and I am presently studying Data Architecture and its implementation for many purposes.
 
 This GitHub account is dedicated to uploading diverse projects developed during my graduation, along with some personal projects and open-source contributions.
 
